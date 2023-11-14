@@ -1,0 +1,3 @@
+LINE BREAK 
+ This part of text is added from a Python file. 
+ Can you imagine this?
